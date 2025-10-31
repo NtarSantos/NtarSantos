@@ -6,7 +6,7 @@
 
 - Pergunte me sobre **Projetos, dashboards e desafios**
 
-- Fale comigo por e-mail **ntvnskbmusic@gmail.com**
+- Fale comigo por e-mail **natanaiwork@gmail.com**
 
 - 📄Minha experência [Gerente de Vendas, horas analisando dados e métricas, utilizando ERP para tomadas de decisões.]
 
