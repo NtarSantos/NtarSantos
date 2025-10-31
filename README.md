@@ -36,4 +36,4 @@ Mais de **100 agentes de IA**, implantados e que faturam milhões por ano.
 Estou sempre aberto a colaborar em projetos desafiadores de IA, automação e análise de dados. Vamos conversar!
 
 * **E-mail:** [natanaiwork@gmail.com](mailto:natanaiwork@gmail.com)
-* **LinkedIn:** [Seu LinkedIn aqui] (<- *Não se esqueça de adicionar!*)
+* **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/natan-santos-419441215/)
