@@ -4,7 +4,7 @@
 
 Sou um entusiasta de tecnologia apaixonado por conectar o mundo dos dados com a inteligência artificial. Meu foco é construir soluções práticas que resolvem problemas reais de negócios.
 
-Com mais de 4 anos de experiência em **análise de dados**, hoje minha principal expertise é o desenvolvimento de **agentes de IA** e **automações de workflows complexos**.
+Com mais de 4 anos de experiência em **análise de dados**, em vendas e negócios, hoje minha principal expertise é o desenvolvimento de **agentes de IA** e **automações de workflows complexos**.
 
 Mais de **100 agentes de IA**, implantados e que faturam milhões por ano.
 
@@ -13,7 +13,7 @@ Mais de **100 agentes de IA**, implantados e que faturam milhões por ano.
 
 ### 🚀 Sobre Mim
 
-* 🧠 Tenho experiência sólida na criação de Agentes de IA com **Python** e **LangChain**.
+* 🧠 Tenho experiência sólida na criação de Agentes de IA com **Python**, **LangChain** e **LangGraph**.
 * ⚡ Desenvolvo automações e integro sistemas usando plataformas como **n8n** e **Make**.
 * 📊 Tenho um background robusto em Análise de Dados e Business Intelligence, utilizando **SQL**, **Power BI** e **Excel** para transformar dados brutos em decisões estratégicas.
 * 📈 Minha experiência anterior [como Gerente de Vendas] me deu uma forte visão de negócios para aplicar métricas e ERPs na tomada de decisão.
