@@ -25,7 +25,7 @@ Mais de **100 agentes de IA**, implantados e que faturam milhões por ano.
 
 | Área | Ferramentas |
 | :--- | :--- |
-| **IA & Automação** | `Python` `LangChain` `n8n` `Make` |
+| **IA & Automação** | `Python` `LangChain` `n8n` `Make` `LangGraph` |
 | **Dados & BI** | `SQL` `MySQL` `Power BI` `Excel` |
 | **Web/Outras** | `TypeScript` `HTML` `CSS` `JavaScript` |
 
